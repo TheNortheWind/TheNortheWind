@@ -1,1 +1,11 @@
-### W.I.P
+<h1> What I'm learning: </h1>
+
+- 🐍 Python ( proficient )
+- 🦀 Rust ( beginner )
+- ☕📜 Javascript ( beginner )
+- ⚛ React ( beginner )
+<p>Also studying physics</p>
+
+<h2> Current projects: </h2>
+
+- Bushcraft information repository & Map
