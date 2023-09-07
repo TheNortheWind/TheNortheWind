@@ -1,6 +1,6 @@
 <h1> What I'm learning: </h1>
 
-- 🐍 Python ( proficient )
+- 🐍 Python ( Intermediate -> Advanced )
 - 🦀 Rust ( beginner )
 - ☕📜 Javascript ( beginner )
 - ⚛ React ( beginner )
