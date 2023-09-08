@@ -1,3 +1,8 @@
+<picture>
+  <img src="./PYJSRS.gif">
+</picture>
+
+
 <h1 align="center"> What I'm learning: </h1>
 <p align="center">
   ```<br>
