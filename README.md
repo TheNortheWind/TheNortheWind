@@ -13,10 +13,10 @@
   ```
 </p>
 <p align="center">Also studying physics</p>
-
+<hr>
 <h2 align="center"> Current projects: </h2>
 <p align="center">Bushcraft information repository & Map</p>
-
+<hr>
 <h2 align="center">Github stats :bar_chart:</h2>
 
 <h4 align="center">Visitor's count :eyes:</h4>
