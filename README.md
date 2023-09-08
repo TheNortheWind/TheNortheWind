@@ -29,11 +29,3 @@
 <h4 align="center">Profile stats :star:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=TheNortheWind&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
-<hr>
-<p align="center">
-  '''<br>
-  print("hello world")<br>
-  println!("hello world");<br>
-  console.log("hello world");<br><br>
-  '''
-</p>
