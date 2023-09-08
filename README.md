@@ -33,7 +33,7 @@
 <p align="center">
   '''<br>
   print("hello world")<br>
-  println!("hello world")<br>
-  console.log("hello world")<br><br>
+  println!("hello world");<br>
+  console.log("hello world");<br><br>
   '''
 </p>
