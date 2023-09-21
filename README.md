@@ -1,5 +1,5 @@
 <picture>
-  <img src="./PYJSRS.gif">
+  <img src="./PYHSRSCPP.gif">
 </picture>
 
 
