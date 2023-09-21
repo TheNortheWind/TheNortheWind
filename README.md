@@ -16,7 +16,7 @@
 <p align="center">Also studying physics</p>
 <hr>
 <h2 align="center"> Current projects: </h2>
-<p align="center">Bushcraft information repository & Map</p>
+<p align="center">Bushcraft information repository & Map <br>Learning C++ for gamedev and to build compilers <br>Learning how to build operating systems in rust</p>
 <hr>
 <h2 align="center">Github stats :bar_chart:</h2>
 
