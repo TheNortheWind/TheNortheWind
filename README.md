@@ -9,7 +9,7 @@
     🐍 Python ( Intermediate -> Advanced ) <br>
     🦀 Rust ( beginner ) <br>
     ☕📜 Javascript ( beginner ) <br>
-    ⚛ React ( Intermediate ) <br>
+    ⚛ React ( Beginner ) <br>
     🔵 C++ ( Intermediate ) <br><br>  
   ```
 </p>
