@@ -7,16 +7,12 @@
 <p align="center">
   ```<br>
     🐍 Python ( Intermediate -> Advanced ) <br>
-    🦀 Rust ( beginner ) <br>
-    ☕📜 Javascript ( beginner ) <br>
-    ⚛ React ( Beginner ) <br>
-    🔵 C++ ( Intermediate ) <br><br>  
+    🦀 Rust ( Beginner ) <br>
+    📗 MIT's Introduction to algorithms book <br>
   ```
-</p>
-<p align="center">Also studying physics</p>
 <hr>
 <h2 align="center"> Current projects: </h2>
-<p align="center">Building a asteroid clone in pygame</p>
+<p align="center">NA</p>
 <hr>
 <h2 align="center">Github stats :bar_chart:</h2>
 
