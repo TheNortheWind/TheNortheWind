@@ -6,9 +6,9 @@
 <h1 align="center"> What I'm learning: </h1>
 <p align="center">
   ```<br>
-    🐍 Python ( Intermediate -> Advanced ) <br>
-    🦀 Rust ( Beginner ) <br>
-    📗 MIT's Introduction to algorithms book <br>
+    🐍 Pygame +  <br>
+    🦀 Rust + C ( Beginner ) <br>
+    📗 Calculus, vectors, and linear algebra <br>
   ```
 <hr>
 <h2 align="center"> Current projects: </h2>
