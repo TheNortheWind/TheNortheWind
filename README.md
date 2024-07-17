@@ -6,7 +6,7 @@
 <h1 align="center"> What I'm learning: </h1>
 <p align="center">
   ```<br>
-    🐍 Pygame +  <br>
+    🐍 Pygame  <br>
     🦀 Rust + C ( Beginner ) <br>
     📗 Calculus, vectors, and linear algebra <br>
   ```
